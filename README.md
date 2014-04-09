@@ -1,4 +1,4 @@
-pythonDroboxExamples
+Python Dropbox API Examples
 ====================
 
-Examples using Dropbox API with Python.
+Python examples using Dropbox API.
