@@ -9,6 +9,8 @@ Before we get started is necessary to do a few steps to configure dropbox and yo
 * Install Dropbox Package in your environment. Through pip for example;
 * Add your Dropbox information into your system variables.
 
+**These examples are made using Python3.**
+
 # How to Contribute?
 
 You can can contribute sending examples, pointing what should be improved and sharing with your friends.
