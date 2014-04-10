@@ -1,7 +1,7 @@
 Python Dropbox API Examples
 ====================
 
-These are some examples and helpful case studies of how you can use Python's Dropbox API in your projects.
+These are some examples of how you can use Python's Dropbox API in your projects.
 
 Before we get started is necessary to do a few steps to configure dropbox and your environment.
 
